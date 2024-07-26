@@ -330,7 +330,7 @@ footer{
     font-size: 1.1rem;
     font-weight: bold;
     width: 50%;
-    box-shadow: var(--box-shadow-lg)
+    box-shadow: var(--box-shadow-lg);
 
 }
 /* 
@@ -410,7 +410,7 @@ footer{
     background-color: var(--dk-blue);
     color: var(--white);
     border-color: var(--lt-blue);
-    box-shadow: var(--box-shadow-sm)
+    box-shadow: var(--box-shadow-sm);
 }
 
 #section2 a:last-of-type:hover{
@@ -438,7 +438,7 @@ footer{
 width: 200px;
 height: auto;
 margin: 0 auto;
-filter: var(--filter-shadow-sm)
+filter: var(--filter-shadow-sm);
 }
 
 #section3 div::before{
